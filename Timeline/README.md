@@ -3,6 +3,6 @@
 
 Timeline with comments.
 
-[![ecmascript-timeline.png](./docs/resources/ecmascript-timeline.png)]
+[![ecmascript-timeline.png](./timeline.png)]
 
 > [Access the full timeline](https://adrelingyte.github.io/timeline.io/)
