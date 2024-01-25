@@ -31,11 +31,11 @@ To identify the vocoder that provides the best balance between speech synthesis 
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
 | 💾 **Vocoder Training**           | [TTS/README.md](https://github.com/coqui-ai/TTS/tree/dev#installation)|
-| 📌 **Evaluations**                | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)
+| 📌 **Evaluations**                | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)|
 | 🚀 **Interface**                  | [TTS Releases](https://github.com/coqui-ai/TTS/releases) and [Experimental Models](https://github.com/coqui-ai/TTS/wiki/Experimental-Released-Models)|
-| 📰 **Final Report**               | [TTS Papers](https://github.com/erogol/TTS-papers)|
-| 💼 **Last Presentation**          | [ReadTheDocs](https://tts.readthedocs.io/en/latest/)|
-| 👩‍💻 **Sample Audios**              | [CONTRIBUTING.md](https://github.com/coqui-ai/TTS/blob/main/CONTRIBUTING.md)|
+| 📰 **Final Report**               | [Final Report](https://www.overleaf.com/read/vswpsyycwqxk#945d00)|
+| 💼 **Last Presentation**          | [Presentation](https://drive.google.com/drive/folders/1z-Te7bXa_BgPtbgV9IkE3Vjfl5pM_0KX?usp=sharing)|
+| 👩‍💻 **Sample Audios**              | [Synthesized Audios](https://github.com/coqui-ai/TTS/blob/main/CONTRIBUTING.md)|
 
 
 
