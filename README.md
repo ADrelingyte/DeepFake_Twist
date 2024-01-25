@@ -19,7 +19,7 @@ To identify the vocoder that provides the best balance between speech synthesis 
 
 1. **Data Preparation**: Download the data.
 2. **Vocoder Training**: Train each vocoder on a multilingual dataset.
-3. **Objective Evaluation**: Calculate MCD and F0 RMSE for each vocoder using the synthesized outputs.
+3. **Objective Evaluation**: Calculate MCD and F0 RMSE for each vocoder using the synthesized outputs and ground truth.
 4. **Subjective Evaluation**: Conduct MOS listening tests based on ITU-T Recommendation P.800.
 5. **Carbon Footprint Analysis**: Utilize CodeCarbon to estimate the emissions generated during the synthesis process.
 6. **Analysis and Comparison**: Aggregate and analyze the results to rank the vocoders based on the weighted criteria.
