@@ -19,6 +19,15 @@ Before running the evaluations, ensure you have Python installed on your system 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repository/xtts-vocoder-evaluations.git
-   cd xtts-vocoder-evaluations
+   git clone https://github.com/ADrelingyte/DeepFake_Twist.git
+2. Open the repository
+   ```bash
+   cd DeepFake_Twist
+   cd Evaluations
+3. Run the command depending on the metrics you would like to calculate
+```bash
+   python evaluate_mcd.py path/to/reference_audio.wav path/to/synthesized_audio.wav --mode plain
+   python evaluate_f0_rmse.py path/to/reference_audio.wav path/to/synthesized_audio.wav --sampling_rate 24000
+
+   
 
