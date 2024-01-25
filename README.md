@@ -31,8 +31,8 @@ To identify the vocoder that provides the best balance between speech synthesis 
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
 | 💾 **Vocoder Training**           | [TRAINING.md](https://github.com/ADrelingyte/DeepFake/tree/main/Vocoders)|
-| 📌 **Evaluations**                | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)|
-| 🚀 **Interface**                  | [EvaluationCodes](https://github.com/ADrelingyte/DeepFake_Twist/tree/main/Evaluations)
+| 📌 **Evaluations**                | [EvaluationCodes](https://github.com/ADrelingyte/DeepFake_Twist/tree/main/Evaluations)|
+| 🚀 **Interface**                  | |
 | 📰 **Final Report**               | [Final Report](https://www.overleaf.com/read/vswpsyycwqxk#945d00)|
 | 💼 **Last Presentation**          | [Presentation](https://drive.google.com/drive/folders/1z-Te7bXa_BgPtbgV9IkE3Vjfl5pM_0KX?usp=sharing)|
 | 👩‍💻 **Sample Audios**              | [Synthesized Audios](https://drive.google.com/drive/folders/1oVJOed7nSh4AiENNmClpjEd7UbmGGDHy?usp=sharing)|
