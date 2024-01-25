@@ -1,8 +1,8 @@
 # DeepFake_Twist
 
-# XTTS Vocoder Evaluation Project
+# XTTS Vocoder Evaluation Project 
 
-This project aims to systematically evaluate and compare different vocoders integrated into the Extended Text-to-Speech (XTTS) system. The evaluation focuses on four key metrics: Mel Cepstral Distortion (MCD), Fundamental Frequency (F0) RMSE, Mean Opinion Score (MOS) based on subjective listening tests, and the carbon footprint of each vocoder's computational process.
+This project aims to systematically evaluate and compare different vocoders integrated into the Extended Text-to-Speech (XTTS) system in order to choose the best vocoder to be integrated into a working TTS interface "Headspace". The evaluation focuses on four key metrics: Mel Cepstral Distortion (MCD), Fundamental Frequency (F0) RMSE, Mean Opinion Score (MOS) based on subjective listening tests, and the carbon footprint of each vocoder's computational process.
 
 ## Objective
 
