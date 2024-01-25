@@ -23,6 +23,7 @@ To identify the vocoder that provides the best balance between speech synthesis 
 4. **Subjective Evaluation**: Conduct MOS listening tests based on ITU-T Recommendation P.800.
 5. **Carbon Footprint Analysis**: Utilize CodeCarbon to estimate the emissions generated during the synthesis process.
 6. **Analysis and Comparison**: Aggregate and analyze the results to rank the vocoders based on the weighted criteria.
+7. **Interface Creation and Integration**: Create the webpage in order to synthesize speech from text.
 
 ## Installation and Usage
 
