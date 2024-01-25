@@ -30,7 +30,7 @@ To identify the vocoder that provides the best balance between speech synthesis 
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💾 **Vocoder Training**           | [TRAINING.md](https://github.com/ADrelingyte/DeepFake/tree/main/Vocoders)|
+| 💾 **Vocoder Training**           | [README.md](https://github.com/ADrelingyte/DeepFake/tree/main/Vocoders)|
 | 📌 **Evaluations**                | [EvaluationCodes](https://github.com/ADrelingyte/DeepFake_Twist/tree/main/Evaluations)|
 | 🚀 **Interface**                  | |
 | 📰 **Final Report**               | [Final Report](https://www.overleaf.com/read/vswpsyycwqxk#945d00)|
