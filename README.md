@@ -17,8 +17,8 @@ To identify the vocoder that provides the best balance between speech synthesis 
 
 ## Methodology
 
-1. **Data Preparation**: Collect and preprocess a diverse set of speech samples for testing.
-2. **Vocoder Synthesis**: Use each vocoder within XTTS to synthesize speech from the test samples.
+1. **Data Preparation**: Download the data.
+2. **Vocoder Training**: Train each vocoder on a multilingual dataset.
 3. **Objective Evaluation**: Calculate MCD and F0 RMSE for each vocoder using the synthesized outputs.
 4. **Subjective Evaluation**: Conduct MOS listening tests based on ITU-T Recommendation P.800.
 5. **Carbon Footprint Analysis**: Utilize CodeCarbon to estimate the emissions generated during the synthesis process.
