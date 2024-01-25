@@ -25,10 +25,17 @@ To identify the vocoder that provides the best balance between speech synthesis 
 6. **Analysis and Comparison**: Aggregate and analyze the results to rank the vocoders based on the weighted criteria.
 7. **Interface Creation and Integration**: Create the webpage in order to synthesize speech from text.
 
-## Installation and Usage
+## Where & What
 
-Describe the steps for setting up the project environment, including installing XTTS, the vocoders, and any dependencies for analysis (e.g., `librosa`, `pyworld`, `soundfile`, `CodeCarbon`).
+## 🔗 Links and Resources
+| Type                            | Links                               |
+| ------------------------------- | --------------------------------------- |
+| 💾 **Vocoder Training**           | [TTS/README.md](https://github.com/coqui-ai/TTS/tree/dev#installation)|
+| 📌 **Evaluations**                | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)
+| 🚀 **Interface**                  | [TTS Releases](https://github.com/coqui-ai/TTS/releases) and [Experimental Models](https://github.com/coqui-ai/TTS/wiki/Experimental-Released-Models)|
+| 📰 **Final Report**               | [TTS Papers](https://github.com/erogol/TTS-papers)|
+| 💼 **Last Presentation**          | [ReadTheDocs](https://tts.readthedocs.io/en/latest/)|
+| 👩‍💻 **Sample Audios**              | [CONTRIBUTING.md](https://github.com/coqui-ai/TTS/blob/main/CONTRIBUTING.md)|
 
-```bash
-# Example installation commands
-pip install librosa pyworld soundfile codecarbon
+
+
