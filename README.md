@@ -35,7 +35,6 @@ To identify the vocoder that provides the best balance between speech synthesis 
 | 🚀 **Interface**                  | [TTS Releases](https://github.com/coqui-ai/TTS/releases) and [Experimental Models](https://github.com/coqui-ai/TTS/wiki/Experimental-Released-Models)|
 | 📰 **Final Report**               | [Final Report](https://www.overleaf.com/read/vswpsyycwqxk#945d00)|
 | 💼 **Last Presentation**          | [Presentation](https://drive.google.com/drive/folders/1z-Te7bXa_BgPtbgV9IkE3Vjfl5pM_0KX?usp=sharing)|
-| 👩‍💻 **Sample Audios**              | [Synthesized Audios](https://github.com/coqui-ai/TTS/blob/main/CONTRIBUTING.md)|
-
+| 👩‍💻 **Sample Audios**              | [Synthesized Audios](https://drive.google.com/file/d/1EzvfvHQ2eAHMa89yAT-UC5ZJoXEMODlE/view?usp=sharing)|
 
 
