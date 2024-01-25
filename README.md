@@ -30,7 +30,7 @@ To identify the vocoder that provides the best balance between speech synthesis 
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💾 **Vocoder Training**           | [TTS/README.md](https://github.com/coqui-ai/TTS/tree/dev#installation)|
+| 💾 **Vocoder Training**           | [TRAINING.md](Vocoders)|
 | 📌 **Evaluations**                | [Main Development Plans](https://github.com/coqui-ai/TTS/issues/378)|
 | 🚀 **Interface**                  | |
 | 📰 **Final Report**               | [Final Report](https://www.overleaf.com/read/vswpsyycwqxk#945d00)|
