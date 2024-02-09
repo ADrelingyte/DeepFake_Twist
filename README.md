@@ -38,3 +38,10 @@ To identify the vocoder that provides the best balance between speech synthesis 
 | 👩‍💻 **Sample Audios**              | [Synthesized Audios](https://drive.google.com/drive/folders/1oVJOed7nSh4AiENNmClpjEd7UbmGGDHy?usp=sharing)|
 
 
+- **Additional Resources:**
+  - [Speech Processing Book Kernel Description](https://speechprocessingbook.aalto.fi/index.html)
+  - [CodeCarbon Kernel Description](https://codecarbon.io/)
+  - [XTTS Kernel Description](https://coqui.ai/blog/tts/open_xtts)
+
+
+
